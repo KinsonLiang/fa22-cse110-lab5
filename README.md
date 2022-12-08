@@ -5,3 +5,5 @@
 Expose (Part 1) : https://kinsonliang.github.io/fa22-cse110-lab5/expose.html
 
 Explore (Part 2) : https://kinsonliang.github.io/fa22-cse110-lab5/explore.html
+
+Introduction : The link on canvas cannot be open
